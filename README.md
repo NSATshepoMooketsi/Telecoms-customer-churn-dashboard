@@ -44,13 +44,13 @@ The company needed to understand why customers were leaving and how churn could 
 
 ---
 
-## 📊Dashboard Preview : Customer Churn & Loyalty
+## 1. Dashboard Preview : Customer Demogrpahics & Loyalty 📊
 
 ![Dashboard](images/dashboard-overview.png)
 
 ---
 
-## 📈Key Insights
+## Key Insights 📈
 ###  *Who are our customers, which customers create value and which customers are at risk?*
 - The average customer age is 45. 
 - Mid-Career customers generate the most value.
@@ -60,13 +60,39 @@ The company needed to understand why customers were leaving and how churn could 
 - Seniors have the highest churn rate relative to age group but also tend stay longer. 
 ---
 
-## 💡Recommendations
+## Recommendations 💡
 ###  *What are the suggested next steps for the business?*
 - Incentivize family packaged offers/products as mid-career to established customers have the highest number of dependents.
 - Incentivise mid-career to established customers 
-- Benchmark against competitor products and services as seniors leave due to competition (and this is the general trend for all other customers) 
+- Benchmark against competitor products and services because seniors leave due to competition. 
 - Target high-risk segments with retention campaigns.
 
+---
+## 2.Dashboard Preview : Customer Churn & Loyalty 📊
+
+![Dashboard](images/dashboard-overview.png)
+
+---
+
+## Key Insights 📈
+###  *Whats is the impact of churn and who should we worry about?*
+- Month to month contracts have the highest churn, Followed by one-year contracts. 
+- Two year contracts are 43% less likely to churn compared to month to month contracts. 
+- 1 479 high-value customers are at risk. 1 480 high-value customers are stable.
+- 45% of customers leave due to competition.  
+---
+## 3.Dashboard Preview : Customer Usage & Loyalty 📊
+
+![Dashboard](images/dashboard-overview.png)
+
+---
+
+## Key Insights 📈
+###  *Whats is the impact of churn and who should we worry about?*
+- Month to month contracts have the highest churn, Followed by one-year contracts. 
+- Two year contracts are 43% less likely to churn compared to month to month contracts. 
+- 1 479 high-value customers are at risk. 1 480 high-value customers are stable.
+- 45% of customers leave due to competition.  
 ---
 
 ## Author
