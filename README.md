@@ -39,13 +39,13 @@ The company needed to understand why customers were leaving and how churn could 
 ---
 
 ## Dashboard Preview
-
+📊 Dashboard
 ![Dashboard](images/dashboard-overview.png)
 
 ---
 
 ## Key Insights
-
+📈 Insights
 1. Month-to-month contracts churn most frequently.
 2. Electronic check customers have higher churn.
 3. Customers without tech support are at higher risk.
@@ -53,7 +53,7 @@ The company needed to understand why customers were leaving and how churn could 
 ---
 
 ## Recommendations
-
+💡 Recommendations
 - Incentivize longer contracts.
 - Improve customer support offerings.
 - Target high-risk segments with retention campaigns.
