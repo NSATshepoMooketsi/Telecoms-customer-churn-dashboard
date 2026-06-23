@@ -27,7 +27,13 @@ The company needed to understand why customers were leaving and how churn could 
 - Contract, payment and service information
 
 ---
-
+## Process 
+- Verified data for any missing values.
+- Made sure the data is clean and consistent with respect to the data type, format and values used.
+- Created a pivot table 
+- Applied use of buttons to make dashboard dynamic for page navigations, drillthrough pages and and slicer panel.
+- Created theme to go along with the fictitious company logo and colours. 
+---
 ## KPIs
 
 | KPI | Value |
@@ -69,3 +75,31 @@ customer-churn-dashboard
 ├── dashboard.pbix
 ├── images
 └── documentation
+
+
+
+
+## Author
+
+**Tshepo Mooketsi**
+
+Business Intelligence Analyst with 8 years of experience delivering analytics solutions across the telecommunications and retail industries. Passionate about transforming complex data into actionable business insights through data modelling, reporting, and visualization.
+
+### Skills
+- Power BI
+- DAX
+- Power Query
+- Data Modelling
+- Business Analysis
+- Requirements Gathering
+- Data Warehousing (EDW)
+
+### Certifications
+- Microsoft Certified: Power BI Data Analyst Associate (PL-300)
+
+### Connect With Me
+- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+- GitHub: [Your GitHub Profile](https://github.com/your-username)
+
+---
+*Feel free to connect with me to discuss data analytics, business intelligence, and data-driven decision making.*
