@@ -44,24 +44,27 @@ The company needed to understand why customers were leaving and how churn could 
 
 ---
 
-## 📊Dashboard Preview
-Dashboard
+## 📊Dashboard Preview : Customer Churn & Loyalty
+
 ![Dashboard](images/dashboard-overview.png)
 
 ---
 
 ## 📈Key Insights
-
-1. Month-to-month contracts churn most frequently.
-2. Electronic check customers have higher churn.
-3. Customers without tech support are at higher risk.
-
+###  *Who are our customers, which customers create value and which customers are at risk?*
+- The average customer age is 45. 
+- Mid-Career customers generate the most value.
+- Mid-Career and established customers account for the highest number of active customers. 
+- Seniors stay the longest
+- Seniors have the highest referral rates.
+- Seniors have the highest churn rate relative to age group but also tend stay longer. 
 ---
 
 ## 💡Recommendations
- Recommendations
-- Incentivize longer contracts.
-- Improve customer support offerings.
+###  *What are the suggested next steps for the business?*
+- Incentivize family packaged offers/products as mid-career to established customers have the highest number of dependents.
+- Incentivise mid-career to established customers 
+- Benchmark against competitor products and services as seniors leave due to competition (and this is the general trend for all other customers) 
 - Target high-risk segments with retention campaigns.
 
 ---
