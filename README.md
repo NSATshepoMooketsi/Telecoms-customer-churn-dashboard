@@ -66,19 +66,6 @@ The company needed to understand why customers were leaving and how churn could 
 
 ---
 
-## Repository Structure
-
-```text
-customer-churn-dashboard
-│
-├── README.md
-├── dashboard.pbix
-├── images
-└── documentation
-
-
-
-
 ## Author
 
 **Tshepo Mooketsi**
