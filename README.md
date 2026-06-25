@@ -65,7 +65,7 @@ The company needed to understand why customers were leaving and how churn could 
 - Address competitor-driven churn through targeted offers, especially among Senior and Fiber Optic customer segments.
 - Develop family oriented bundles.
 ---
-## 4 *Detailed Recommendations 💡
+## 4 Detailed Recommendations 💡
 ###  4.1 Investigate Senior Customer Churn
 *Although Senior customers have the longest average tenure and highest referral rates, they also experience the highest churn rates.*
 - Conduct further analysis and customer surveys focused on Senior customers.
