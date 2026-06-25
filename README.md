@@ -62,7 +62,7 @@ The company needed to understand why customers were leaving and how churn could 
 - Offer E customers exhibit the highest offer-related churn.
 - Paperless Billing and Internet Service customers experience the highest churn among add-on services.
 ###  3.4.2 Dashboard Preview 📊
-![Dashboard](Images/Referrals_Usage_Loyalty.png)
+![Dashboard](Images/Offers_Services_Loyalty.png)
 
 --- 
 ### 3.5 Summary Recommnendations💡
