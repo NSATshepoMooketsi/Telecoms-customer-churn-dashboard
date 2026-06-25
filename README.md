@@ -58,13 +58,13 @@ The company needed to understand why customers were leaving and how churn could 
 ![Dashboard](Images/Offers_Services_Loyalty.png)
 
 --- 
-## 3 Summary Recommnendations💡
+## 3. Summary Recommnendations💡
 - Reduce churn among Month-to-Month and high-value customers.
 - Use referrals and loyalty programmes to increase retention and customer value.
 - Address competitor-driven churn through targeted offers, especially among Senior and Fiber Optic customer segments.
 - Develop family oriented bundles.
 ---
-## 4 Detailed Recommendations 💡
+## 4. Detailed Recommendations 💡
 ###  4.1 Investigate Senior Customer Churn
 *Although Senior customers have the longest average tenure and highest referral rates, they also experience the highest churn rates.*
 - Conduct further analysis and customer surveys focused on Senior customers.
@@ -118,7 +118,7 @@ Business Intelligence Analyst with 8 years of experience delivering analytics so
 - Microsoft Certified: Power BI Data Analyst Associate (PL-300)
 
 ### Connect With Me
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+- LinkedIn: [[Your LinkedIn Profile](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/tshepo-mooketsi-77b892116/))
 - GitHub: [Your GitHub Profile](https://github.com/your-username)
 
 ---
