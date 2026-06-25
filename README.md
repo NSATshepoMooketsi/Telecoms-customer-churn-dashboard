@@ -79,11 +79,40 @@ The company needed to understand why customers were leaving and how churn could 
 - Reduce churn among Month-to-Month and high-value customers.
 - Use referrals and loyalty programmes to increase retention and customer value.
 - Address competitor-driven churn through targeted offers, especially among Senior and Fiber Optic customer segments.
-- Develop family oriented bundles. 
+- Develop family oriented bundles.
+---
 ## 3.6 *Detailed Recommendations 💡
 ###  *3.6.1 Investigate Senior Customer Churn*
--*Although Senior customers have the longest average tenure and highest referral rates, they also experience the highest churn rates.*
-
+*Although Senior customers have the longest average tenure and highest referral rates, they also experience the highest churn rates.*
+- Conduct further analysis and customer surveys focused on Senior customers.
+- Develop targeted retention packages tailored to their needs.
+###  *3.6.2 Investigate Senior Customer Churn*
+*The customer base is concentrated within Mid-Career, Established, and Pre-Retirement age groups, with 23% of customers having dependents.*
+- Introduce family-oriented packages and bundled service offerings.
+- Offer discounts for multi-user households.
+###  *3.6.3 Improve Retention of Month-to-Month Customers*
+*Month-to-Month customers exhibit a significantly higher churn rate (46%) compared to One-Year (11%) and Two-Year (3%) contract customers.*
+- Introduce incentives for customers to migrate to longer-term contracts.
+- Offer loyalty discounts, bundled services or reduced pricing for contract upgrades.
+###  *3.6.4 Prioritise High-Value Customers at Risk*
+*Nearly half of high-value customers are classified as at risk despite generating significant customer lifetime value.*
+- Establish a proactive retention programme for high-value customers.
+- Offer personalised loyalty benefits and account management services.
+###  *3.6.5 Strengthen Competitive Retention Strategies*
+*Competitor offerings account for approximately 45% of customer churn, making them the leading driver of customer attrition.*
+- Conduct competitor benchmarking to identify gaps in pricing, service offerings and customer benefits
+- Offer personalised loyalty benefits and account management services.
+###  *3.6.6 Strengthen Competitive Retention Strategies*
+*Customers who refer friends exhibit lower churn rates (19%) and generate significantly higher average revenue than customers who do not refer others.*
+- Expand referral programmes and referral incentives.
+- Offer personalised loyalty benefits and account management services.
+###  *3.6.7 Review Service and Offer Performance*
+*Fiber Optic customers exhibit the highest service-related churn, while customers associated with Offer E experience the highest offer-related churn.*
+- Assess whether Offer E attracts higher-risk customer segments or contains service limitations.
+- Offer personalised loyalty benefits and account management services.
+###  *3.6.8 Review Service and Offer Performance*
+*Premium Tech Support and Online Security exhibit the lowest churn rates among add-on services.*
+- Bundle these services into customer retention packages.
 ---
 ## 2.Dashboard Preview : Customer Churn & Loyalty 📊
 
@@ -98,19 +127,7 @@ The company needed to understand why customers were leaving and how churn could 
 - 1 479 high-value customers are at risk. 1 480 high-value customers are stable.
 - 45% of customers leave due to competition.  
 ---
-## 3.Dashboard Preview : Customer Usage & Loyalty 📊
 
-![Dashboard](images/dashboard-overview.png)
-
----
-
-## Key Insights 📈
-###  *Whats is the impact of churn and who should we worry about?*
-- Month to month contracts have the highest churn, Followed by one-year contracts. 
-- Two year contracts are 43% less likely to churn compared to month to month contracts. 
-- 1 479 high-value customers are at risk. 1 480 high-value customers are stable.
-- 45% of customers leave due to competition.  
----
 
 ## Author
 
