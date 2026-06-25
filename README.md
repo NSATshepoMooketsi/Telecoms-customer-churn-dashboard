@@ -41,7 +41,7 @@ The company needed to understand why customers were leaving and how churn could 
 - Customer distribution by gender is balanced.
 - Seniors have the highest churn rate due to competition, the general trend applies for all customers.
 ###  3.1.2 Dashboard Preview 📊
-![Dashboard](images/dashboard-overview.png)
+![Dashboard](Images/Customer Demographics and Loyalty.pn)
 
 
 ###  3.2 Contract Churn and Loyalty
