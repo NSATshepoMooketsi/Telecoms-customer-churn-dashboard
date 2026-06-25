@@ -55,14 +55,14 @@ The company needed to understand why customers were leaving and how churn could 
 - Customers who refer friends generate more revenue and churn less.
 - Low and Premium usage customers have the lowest churn rate.
   ###  3.3.2 Dashboard Preview 📊
-![Dashboard](Images/Contract_Churn_Loyalty.png)
+![Dashboard](Images/Referrals_Usage_Loyalty.png)
 
 ###  3.4.1 Offers, Services and Loyalty 
 - Fiber Optic customers experience the highest service-related churn.
 - Offer E customers exhibit the highest offer-related churn.
 - Paperless Billing and Internet Service customers experience the highest churn among add-on services.
 ###  3.4.2 Dashboard Preview 📊
-![Dashboard](Images/Contract_Churn_Loyalty.png)
+![Dashboard](Images/Referrals_Usage_Loyalty.png)
 
 --- 
 ### 3.5 Summary Recommnendations💡
