@@ -1,5 +1,6 @@
 # Telecoms Customer Churn Dashboard 📊
 *About Project*
+-
 Power BI dashboard analysing telecom customer churn, loyalty, service adoption, customer demographics and revenue impact. The project uses DAX, data modelling, drill-through analysis and business storytelling to identify churn drivers and customer retention opportunities.
 *Overview* 
 This dashboard analyzes customer churn patterns and identifies factors contributing to customer attrition.
