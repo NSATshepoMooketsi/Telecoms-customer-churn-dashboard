@@ -43,19 +43,27 @@ The company needed to understand why customers were leaving and how churn could 
 ###  3.1.2 Dashboard Preview 📊
 ![Dashboard](Images/Customer_Demographics_Loyalty.png)
 
-
-###  3.2 Contract Churn and Loyalty
+###  3.2.1 Contract Churn and Loyalty
 - Month-to-Month contracts experience the highest churn.
 - Competitor offerings are the primary reason customers leave.
 - High-value customers remain at significant risk.
-###  3.3 Referrals, Usage and Loyalty
+###  3.2.2 Dashboard Preview 📊
+![Dashboard](Images/Contract_Churn_Loyalty.png)
+
+###  3.3.1 Referrals, Usage and Loyalty
 - Referral behaviour is strongly associated with loyalty.
 - Customers who refer friends generate more revenue and churn less.
-- Low and Premium usage customers have the lowest churn rate. 
-###  3.4 Offers, Services and Loyalty 
+- Low and Premium usage customers have the lowest churn rate.
+  ###  3.3.2 Dashboard Preview 📊
+![Dashboard](Images/Contract_Churn_Loyalty.png)
+
+###  3.4.1 Offers, Services and Loyalty 
 - Fiber Optic customers experience the highest service-related churn.
 - Offer E customers exhibit the highest offer-related churn.
 - Paperless Billing and Internet Service customers experience the highest churn among add-on services.
+###  3.4.2 Dashboard Preview 📊
+![Dashboard](Images/Contract_Churn_Loyalty.png)
+
 --- 
 ### 3.5 Summary Recommnendations💡
 - Reduce churn among Month-to-Month and high-value customers.
