@@ -118,7 +118,7 @@ Business Intelligence Analyst with 8 years of experience delivering analytics so
 - Microsoft Certified: Power BI Data Analyst Associate (PL-300)
 
 ### Connect With Me
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/tshepo-mooketsi-77b892116/))
+- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/tshepo-mooketsi-77b892116)
 - GitHub: [Your GitHub Profile](https://github.com/your-username)
 
 ---
