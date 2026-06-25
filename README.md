@@ -104,19 +104,6 @@ The company needed to understand why customers were leaving and how churn could 
 *Premium Tech Support and Online Security exhibit the lowest churn rates among add-on services.*
 - Bundle these services into customer retention packages.
 ---
-## 2.Dashboard Preview : Customer Churn & Loyalty 📊
-
-![Dashboard](images/dashboard-overview.png)
-
----
-
-## Key Insights 📈
-###  *Whats is the impact of churn and who should we worry about?*
-- Month to month contracts have the highest churn, Followed by one-year contracts. 
-- Two year contracts are 43% less likely to churn compared to month to month contracts. 
-- 1 479 high-value customers are at risk. 1 480 high-value customers are stable.
-- 45% of customers leave due to competition.  
----
 
 
 ## Author
