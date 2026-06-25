@@ -57,9 +57,12 @@ The company needed to understand why customers were leaving and how churn could 
 ###  2.4.2 Dashboard Preview 📊
 ![Dashboard](Images/Offers_Services_Loyalty.png)
 
-### 2.5 Live Dashboard
+### 2.5 Live Dashboard 📊 
 
-View the interactive dashboard here: https://app.powerbi.com/...
+*Experience the interactive version of this dashboard in Power BI.*
+
+👉 **[Launch Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDkwZDgwYjQtZDIxMS00NTQwLWI0ODQtZmE0ZGRiNjQ2ZGI1IiwidCI6IjJhYTYxN2E4LTI3NDItNDEwMi04NjgzLTFmYTMzZGE4Nzc3YiJ9&embedImagePlaceholder=true)**
+
 
 
 --- 
