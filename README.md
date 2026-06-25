@@ -22,9 +22,9 @@ The company needed to understand why customers were leaving and how churn could 
 ---
 
 
-## 1. Dashboard Preview : Customer Demogrpahics & Loyalty 📊
+## 1. Dashboard Preview : Customer Demogrpahics & Loyalty 
 
-![Dashboard](images/dashboard-overview.png)
+
 
 ---
 ## 2. Key Questions 
@@ -36,10 +36,14 @@ The company needed to understand why customers were leaving and how churn could 
 ---
 
 ## 3. Key Insights 📈
-###  3.1 Demographics and Loyalty
+###  3.1.1 Demographics and Loyalty
 - Customer base is dominated by Mid-Career to Pre-Retirement customers, 23% of which have dependents.
 - Customer distribution by gender is balanced.
-- Seniors have the highest churn rate due to competition, the general trend applies for all customers. 
+- Seniors have the highest churn rate due to competition, the general trend applies for all customers.
+###  3.1.2 Dashboard Preview 📊
+![Dashboard](images/dashboard-overview.png)
+
+
 ###  3.2 Contract Churn and Loyalty
 - Month-to-Month contracts experience the highest churn.
 - Competitor offerings are the primary reason customers leave.
