@@ -28,10 +28,10 @@ The company needed to understand why customers were leaving and how churn could 
 
 ---
 ## 2. Key Questions 
-### *-Who are our customers, which customers create value and which customers are at risk?*
-### *-Whats is the impact of churn and who should we worry about?*
-### *-Do refferals have an impact on churn?*
-### *-Which services are most popular and which have high churn?*
+-*Who are our customers, which customers create value and which customers are at risk?*
+-*Whats is the impact of churn and who should we worry about?*
+-*Do refferals have an impact on churn?*
+-*Which services are most popular and which have high churn?*
 
 ---
 
