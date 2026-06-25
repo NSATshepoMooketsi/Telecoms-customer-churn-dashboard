@@ -57,6 +57,11 @@ The company needed to understand why customers were leaving and how churn could 
 ###  2.4.2 Dashboard Preview 📊
 ![Dashboard](Images/Offers_Services_Loyalty.png)
 
+### 2.5 Live Dashboard
+
+View the interactive dashboard here: https://app.powerbi.com/...
+
+
 --- 
 ## 3. Summary Recommnendations💡
 - Reduce churn among Month-to-Month and high-value customers.
@@ -119,7 +124,7 @@ Business Intelligence Analyst with 8 years of experience delivering analytics so
 
 ### Connect With Me
 - LinkedIn: [Tshepo Mooketsi](https://www.linkedin.com/in/tshepo-mooketsi-77b892116)
-- GitHub: [Your GitHub Profile](https://github.com/your-username)
+- GitHub: [NSATshepoMooketsi](https://github.com/NSATshepoMooketsi)
 
 ---
 *Feel free to connect with me to discuss data analytics, business intelligence, and data-driven decision making.*
