@@ -83,8 +83,6 @@ The company needed to understand why customers were leaving and how churn could 
 ## 3.6 *Detailed Recommendations 💡
 ###  *3.6.1 Investigate Senior Customer Churn*
 -*Although Senior customers have the longest average tenure and highest referral rates, they also experience the highest churn rates.*
--
-
 
 ---
 ## 2.Dashboard Preview : Customer Churn & Loyalty 📊
