@@ -13,13 +13,6 @@ The company needed to understand why customers were leaving and how churn could 
 
 ---
 
-## Tools Used
-
-- Power BI
-- DAX
-
----
-
 ## Dataset
 
 - 7,043 customers
@@ -27,22 +20,7 @@ The company needed to understand why customers were leaving and how churn could 
 - Contract, payment and service information
 
 ---
-## Process 
-- Verified data for any missing values.
-- Made sure the data is clean and consistent with respect to the data type, format and values used.
-- Created a pivot table 
-- Applied use of buttons to make dashboard dynamic for page navigations, drillthrough pages and and slicer panel.
-- Created theme to go along with the fictitious company logo and colours. 
----
-## KPIs
 
-| KPI | Value |
-|------|------|
-| Customers | 7,043 |
-| Churn Rate | 26.5% |
-| Revenue | $16.1M |
-
----
 
 ## 1. Dashboard Preview : Customer Demogrpahics & Loyalty 📊
 
