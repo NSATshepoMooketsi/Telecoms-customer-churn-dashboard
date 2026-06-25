@@ -49,23 +49,42 @@ The company needed to understand why customers were leaving and how churn could 
 ![Dashboard](images/dashboard-overview.png)
 
 ---
+## 2. Key Questions 
+### - *Who are our customers, which customers create value and which customers are at risk?*
+### - *Whats is the impact of churn and who should we worry about?*
+### - *Do refferals have an impact on churn? 
+### - *Which services are most popular and which have high churn? 
 
-## Key Insights 📈
-###  *Who are our customers, which customers create value and which customers are at risk?*
-- The average customer age is 45. 
-- Mid-Career customers generate the most value.
-- Mid-Career and established customers account for the highest number of active customers. 
-- Seniors stay the longest
-- Seniors have the highest referral rates.
-- Seniors have the highest churn rate relative to age group but also tend stay longer. 
 ---
 
-## Recommendations 💡
-###  *What are the suggested next steps for the business?*
-- Incentivize family packaged offers/products as mid-career to established customers have the highest number of dependents.
-- Incentivise mid-career to established customers 
-- Benchmark against competitor products and services because seniors leave due to competition. 
-- Target high-risk segments with retention campaigns.
+## 3. Key Insights 📈
+###  3.1 *Demographics and Loyalty*
+- Customer base is dominated by Mid-Career to Pre-Retirement customers, 23% of which have dependents.
+- Customer distribution by gender is balanced.
+- Seniors have the highest churn rate due to competition, the general trend applies for all customers. 
+###  3.2 * Contract Churn and Loyalty*
+- Month-to-Month contracts experience the highest churn.
+- Competitor offerings are the primary reason customers leave.
+- High-value customers remain at significant risk.
+###  3.3 * Referrals, Usage and Loyalty* 
+- Referral behaviour is strongly associated with loyalty.
+- Customers who refer friends generate more revenue and churn less.
+- Low and Premium usage customers have the lowest churn rate. 
+###  3.4 * Offers, Services and Loyalty* 
+- Fiber Optic customers experience the highest service-related churn.
+- Offer E customers exhibit the highest offer-related churn.
+- Paperless Billing and Internet Service customers experience the highest churn among add-on services.
+--- 
+### 3.5 * Summary Recommnendations* 💡
+- Reduce churn among Month-to-Month and high-value customers.
+- Use referrals and loyalty programmes to increase retention and customer value.
+- Address competitor-driven churn through targeted offers, especially among Senior and Fiber Optic customer segments.
+- Develop family oriented bundles. 
+## 3.6 *Detailed Recommendations 💡
+###  *3.6.1 Investigate Senior Customer Churn*
+-*Although Senior customers have the longest average tenure and highest referral rates, they also experience the highest churn rates.*
+-
+
 
 ---
 ## 2.Dashboard Preview : Customer Churn & Loyalty 📊
