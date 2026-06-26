@@ -1,7 +1,7 @@
 # Telecoms Customer Churn Dashboard 📊
 *About Project*
 -
-Power BI dashboard analysing telecom customer churn, loyalty, service adoption, customer demographics and revenue impact. The project uses DAX, data modelling, drill-through analysis and business storytelling to identify churn drivers and customer retention opportunities. This dashboard analyzes customer churn patterns and identifies factors contributing to customer attrition.
+Power BI dashboard analysing telecom customer churn, loyalty, service adoption, customer demographics and revenue impact. The project uses DAX, data modelling, bookmarks and dynamic buttons for business storytelling by identifying churn drivers and customer retention opportunities. This dashboard analyzes customer churn patterns and identifies factors contributing to customer attrition.
 ![Landing Page](Images/Landing_Page.png)
 
 ---
@@ -32,13 +32,13 @@ The company needed to understand why customers were leaving and how churn could 
 ###  2.1.1 Demographics and Loyalty
 - Customer base is dominated by Mid-Career to Pre-Retirement customers, 23% of which have dependents.
 - Customer distribution by gender is balanced.
-- Seniors have the highest churn rate due to competition, the general trend applies for all customers.
+- Seniors have the highest churn rate due to competition, the general trend applies for all customer groups.
 ###  2.1.2 Dashboard Preview 📊
 ![Dashboard](Images/Customer_Demographics_Loyalty.png)
 
 ###  2.2.1 Contract Churn and Loyalty
 - Month-to-Month contracts experience the highest churn.
-- Competitor offerings are the primary reason customers leave.
+- Competitors are the primary reason customers leave.
 - High-value customers remain at significant risk.
 ###  2.2.2 Dashboard Preview 📊
 ![Dashboard](Images/Contract_Churn_Loyalty.png)
