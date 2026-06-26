@@ -61,7 +61,7 @@ The company needed to understand why customers were leaving and how churn could 
 
 *Experience the interactive version of this dashboard in Power BI.*
 
-👉 **[Launch Dashboard][(https://app.powerbi.com/view?r=eyJrIjoiZDkwZDgwYjQtZDIxMS00NTQwLWI0ODQtZmE0ZGRiNjQ2ZGI1IiwidCI6IjJhYTYxN2E4LTI3NDItNDEwMi04NjgzLTFmYTMzZGE4Nzc3YiJ9&embedImagePlaceholder=true)]**
+👉 **[Launch Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDkwZDgwYjQtZDIxMS00NTQwLWI0ODQtZmE0ZGRiNjQ2ZGI1IiwidCI6IjJhYTYxN2E4LTI3NDItNDEwMi04NjgzLTFmYTMzZGE4Nzc3YiJ9&embedImagePlaceholder=true)**
 
 
 
