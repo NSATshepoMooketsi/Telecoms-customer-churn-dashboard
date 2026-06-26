@@ -77,7 +77,7 @@ The company needed to understand why customers were leaving and how churn could 
 *Although Senior customers have the longest average tenure and highest referral rates, they also experience the highest churn rates.*
 - Conduct further analysis and customer surveys focused on Senior customers.
 - Develop targeted retention packages tailored to their needs.
-###  4.2 Investigate Senior Customer Churn
+###  4.2 Develop Family-Oriented Service Bundles 
 *The customer base is concentrated within Mid-Career, Established, and Pre-Retirement age groups, with 23% of customers having dependents.*
 - Introduce family-oriented packages and bundled service offerings.
 - Offer discounts for multi-user households.
@@ -93,7 +93,7 @@ The company needed to understand why customers were leaving and how churn could 
 *Competitor offerings account for approximately 45% of customer churn, making them the leading driver of customer attrition.*
 - Conduct competitor benchmarking to identify gaps in pricing, service offerings and customer benefits
 - Offer personalised loyalty benefits and account management services.
-###  4.6 Strengthen Competitive Retention Strategies
+###  4.6 Leverage Customer Referrals as a Loyalty Strategy
 *Customers who refer friends exhibit lower churn rates (19%) and generate significantly higher average revenue than customers who do not refer others.*
 - Expand referral programmes and referral incentives.
 - Offer personalised loyalty benefits and account management services.
@@ -101,7 +101,7 @@ The company needed to understand why customers were leaving and how churn could 
 *Fiber Optic customers exhibit the highest service-related churn, while customers associated with Offer E experience the highest offer-related churn.*
 - Assess whether Offer E attracts higher-risk customer segments or contains service limitations.
 - Offer personalised loyalty benefits and account management services.
-###  4.8 Review Service and Offer Performance
+###  4.8 Expand Adoption of Low-Churn Services
 *Premium Tech Support and Online Security exhibit the lowest churn rates among add-on services.*
 - Bundle these services into customer retention packages.
 ---
