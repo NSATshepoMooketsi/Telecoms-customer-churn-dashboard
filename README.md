@@ -1,16 +1,16 @@
 # Telecoms Customer Churn Dashboard 📊
 *About Project*
--
+---
 Power BI dashboard analysing telecom customer churn, loyalty, service adoption, customer demographics and revenue impact. The project uses DAX, data modelling, bookmarks and dynamic buttons for business storytelling by identifying churn drivers and customer retention opportunities. This dashboard analyzes customer churn patterns and identifies factors contributing to customer attrition.
 ![Landing Page](Images/Landing_Page.png)
 
--
+---
 ## Live Dashboard 📊 
 
 *Experience the interactive version of this dashboard in Power BI.*
 
 👉 **[Launch Dashboard](https://app.fabric.microsoft.com/view?r=eyJrIjoiZDkwZDgwYjQtZDIxMS00NTQwLWI0ODQtZmE0ZGRiNjQ2ZGI1IiwidCI6IjJhYTYxN2E4LTI3NDItNDEwMi04NjgzLTFmYTMzZGE4Nzc3YiJ9&embedImagePlaceholder=true)**
--
+---
 
 ## Business Problem
 
