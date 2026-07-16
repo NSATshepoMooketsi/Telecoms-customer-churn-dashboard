@@ -10,6 +10,7 @@ Power BI dashboard analysing telecom customer churn, loyalty, service adoption, 
 *Experience the interactive version of this dashboard in Power BI.*
 
 👉 **[Launch Dashboard](https://app.fabric.microsoft.com/view?r=eyJrIjoiZDkwZDgwYjQtZDIxMS00NTQwLWI0ODQtZmE0ZGRiNjQ2ZGI1IiwidCI6IjJhYTYxN2E4LTI3NDItNDEwMi04NjgzLTFmYTMzZGE4Nzc3YiJ9&embedImagePlaceholder=true)**
+
 ---
 
 ## Business Problem
